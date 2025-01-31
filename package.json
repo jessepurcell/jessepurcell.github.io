@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jessepurcell.github.io/",
+  "homepage": "https://jessepurcell.github.io/jessepurcell.github.io/",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d build",
