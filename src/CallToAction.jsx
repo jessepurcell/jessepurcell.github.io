@@ -1,11 +1,11 @@
 const CallToAction = () => {
     return (
-    <section class="bg-pink-600 text-white text-center py-16">
-        <div class="max-w-6xl mx-auto">
-            <h1 class="text-4xl font-bold">Private, Encryptes Email & Messaging</h1>
-            <h2 class="text-3xl font-bold">No Ads. No Tracking.</h2>
-            <p class="mt-4 text-lg">Communicate freely with end-to-end encryption and total privacy.</p>
-            <a href="#" class="mt-6 inline-block bg-white text-pink-600 px-6 py-3 rounded font-semibold">Get Started for Free</a>
+    <section className="bg-background text-gray-200 text-center py-16">
+        <div className="max-w-6xl mx-auto">
+            <h1 className="text-4xl font-bold">Private, Encrypts Email & Messaging</h1>
+            <h2 className="text-3xl font-bold">No Ads. No Tracking.</h2>
+            <p className="mt-4 text-lg">Communicate freely with end-to-end encryption and total privacy.</p>
+            <a href="#" className="mt-6 inline-block bg-accent text-gray-800 hover:text-blue-600 text-xl px-8 py-4 rounded-4xl font-bold">Get Started for Free</a>
         </div>
     </section>
     );

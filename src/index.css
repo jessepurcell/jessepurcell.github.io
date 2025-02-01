@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
 @layer components {
+    
+}
 
+@theme {
+    --color-background: #120F26;
+    --color-primary: #84468C;
+    --color-secondary: #302A59;
+    --color-tertiary: #52498C;
+    --color-accent: #57F2AA;
 }
