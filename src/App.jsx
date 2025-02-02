@@ -1,12 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Navbar'
 import CallToAction from './CallToAction'
 import Features from './Features'
 import HowItWorks from './HowItWorks'
 import Footer from './Footer'
+import Plans from './Plans'
 
 function App() {
   return (
@@ -15,6 +13,7 @@ function App() {
       <CallToAction/>
       <Features/>
       <HowItWorks/>
+      <Plans/>
       <Footer/>
     </>
   )

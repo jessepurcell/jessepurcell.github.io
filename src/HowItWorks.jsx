@@ -10,21 +10,21 @@ const HowItWorks = () => {
                 <h3 className="mt-16 text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis temporibus minus, magni voluptate accusamus doloremque consequuntur itaque doloribus? Sint officiis similique veritatis cum magni voluptas quasi voluptatem ducimus tempora assumenda?</h3>
                 <div className="mt-8 grid md:grid-cols-3 gap-6">
                     <div className="p-6">
-                        <div className="bg-primary rounded-4xl p-4 w-min mx-auto">
+                        <div className="bg-primary rounded-4xl p-4 w-min mx-auto outline-2 outline-white">
                             <Lock className="place-self-center m-4 size-12"/>
                         </div>
                         <h3 className="text-gray-200 text-xl font-semibold pt-8">Step 1: Sign Up Securely</h3>
                         <p className="text-gray-300 mt-2">Sign up with minimal information—just your email. No personal data required.</p>
                     </div>
                     <div className="p-6">
-                        <div className="bg-primary rounded-4xl p-4 w-min mx-auto">
+                        <div className="bg-primary rounded-4xl p-4 w-min mx-auto outline-2 outline-white">
                             <Messenger className="place-self-center m-4 size-12" />
                         </div>
                         <h3 className="text-gray-200 text-xl font-semibold pt-8">Step 2: Encrypt & Send</h3>
                         <p className="text-gray-300 mt-2">Send emails and messages with end-to-end encryption by default. Your data never leaves your control.</p>
                     </div>
                     <div className="p-6">
-                        <div className="bg-primary rounded-4xl p-4 w-min mx-auto">
+                        <div className="bg-primary rounded-4xl p-4 w-min mx-auto outline-2 outline-white">
                             <Safe className="place-self-center m-4 size-12"/>
                         </div>
                         <h3 className="text-gray-200 text-xl font-semibold pt-8">Step 3: Receive Privately</h3>
