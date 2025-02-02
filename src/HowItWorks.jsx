@@ -7,7 +7,7 @@ const HowItWorks = () => {
         <section id="features" className="py-16 bg-background">
             <div className="max-w-6xl mx-auto text-center">
                 <h2 className="text-gray-200 text-3xl font-bold">How does it work?</h2>
-                <h3 className="mt-16 text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis temporibus minus, magni voluptate accusamus doloremque consequuntur itaque doloribus? Sint officiis similique veritatis cum magni voluptas quasi voluptatem ducimus tempora assumenda?</h3>
+                <h3 className="mt-16 text-gray-300">Secure communication, simplified. With just a few easy steps, you can protect your emails and messages with industry-leading encryption—no tech expertise required.</h3>
                 <div className="mt-8 grid md:grid-cols-3 gap-6">
                     <div className="p-6">
                         <div className="bg-primary rounded-4xl p-4 w-min mx-auto outline-2 outline-white">
